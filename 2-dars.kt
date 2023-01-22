@@ -1,0 +1,1 @@
+// Kotlinni o'rnatish
